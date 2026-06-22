@@ -12,4 +12,4 @@
 - **Участник олимпиады "Аналитик-2025"** - Проект для аналитики страховой компании
   - [Схемы](https://raw.githubusercontent.com/strogonovads/portfolio/527691cde844e38167694e11f07f4e616e132cb0/Олимпиада%20Аналитик/2025/Олимпиада%20Аналитик%202025.pdf)
 - **Системный анализ - онлайн этап ИТ-лагерь Т1 2025** - [Сертификат о прохождении](https://raw.githubusercontent.com/strogonovads/portfolio/527691cde844e38167694e11f07f4e616e132cb0/Сертификат%20Т1/сертификат_Т1.pdf)
-- **Яндекс практикум - Курс Middle/Middle+ Системный анализ** - [Сертификат о прохождении](https://raw.githubusercontent.com/strogonovads/portfolio/527691cde844e38167694e11f07f4e616e132cb0/Яндекс%20практикум/сертификат_яндекс_практикум.pdf)
+- **Яндекс практикум - Курс Middle/Middle+ Системный анализ** - [Сертификат о прохождении](https://raw.githubusercontent.com/strogonovads/portfolio/refs/heads/main/Яндекс%20практикум/сертификат_яндекс_практикум.pdf)
